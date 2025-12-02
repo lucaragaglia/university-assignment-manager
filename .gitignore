@@ -1,0 +1,38 @@
+# --- Dependencies ---
+node_modules/
+
+# --- Build & Dist (React/Vite) ---
+dist
+dist-ssr
+build
+
+# --- Environment Variables & Local Files ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
+
+# --- Logs & Debug ---
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- System Files (Junk) ---
+.DS_Store
+Desktop.ini
+Thumbs.db
+*.sw?
+
+# --- Editors & IDEs ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
