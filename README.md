@@ -14,7 +14,7 @@ Developed as a final project for the **Web Applications I** course at **Politecn
 
 ![Project Screenshot](./img/student-performance-stats.png)
 
-## 🚀 Features
+## Features
 
 ### For Teachers
 * **Assignment Creation:** Create open-ended questions and assign them to specific students.
@@ -27,7 +27,7 @@ Developed as a final project for the **Web Applications I** course at **Politecn
 * **Submission System:** Submit answers directly through the application.
 * **Performance Tracking:** View personal statistics and grade history.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:**
 * ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) **React.js** (Vite, Functional Components, Hooks)
@@ -40,7 +40,7 @@ Developed as a final project for the **Web Applications I** course at **Politecn
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) **SQLite** (Relational Database)
 
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 To run this project locally, follow these steps:
 
@@ -68,7 +68,7 @@ To run this project locally, follow these steps:
     ```
     *The client will run on http://localhost:5173*
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 You can use the following pre-configured accounts to test the application roles:
 
@@ -81,7 +81,7 @@ You can use the following pre-configured accounts to test the application roles:
 
 *(Additional students available from s301 to s320)*
 
-## 🗄 Database Structure
+## Database Structure
 
 The project uses a **SQLite** database with the following relationships:
 * **USERS:** Stores both Students and Teachers (distinguished by Role).
